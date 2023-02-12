@@ -6,11 +6,15 @@
         <br>
         <h1>=>>Bisection</h1>
           <div align=center>
+            a)
             <img src="https://github.com/up210439/up210439_DSA/blob/main/Imagenes/image.png" width ="600"
-            </div>
+                 <div></div>
+            <br></br>
             <h1>=>>Secret number</h1>
             <div align=center>
-              <img src= 
+              b)
+              <img src= "https://github.com/up210439/up210439_DSA/blob/main/Imagenes/nemerosecreto%20.png" width="600"
+                </div>  
             
             
       
