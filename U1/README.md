@@ -28,8 +28,29 @@
                   <img src="https://github.com/up210439/up210439_DSA/blob/main/Imagenes/bublee.png" width="600"
                      <div></div> 
                        <br></br> 
-           <h1>=>>Buble</h1>
+           <h1>=>>Palindrome</h1>
            <div align=center>
+           e)
+              <img src="https://github.com/up210439/up210439_DSA/blob/main/Imagenes/polindromo.png" width="600"
+                   <div></div> 
+                    <br></br>
+           <h1>=>>Second try palindrome</h1>
+           <div align=center>
+            e)
+              <img src="https://github.com/up210439/up210439_DSA/blob/main/Imagenes/palindromo2.png" width="600"
+                    <div></div> 
+                    <br></br> 
+           <h1>=>>Non-repeating array</h1>
+           <div align=center>  
+           f)
+               <img src="https://github.com/up210439/up210439_DSA/blob/main/Imagenes/matriz.png" width="600"
+                     <div></div> 
+                       <br></br> 
+           <div align=center>           
+           <h1>End of this unit</h1>
+              🙋🏼‍♀️
+            <div></div>         
+            
                 
                   
             
